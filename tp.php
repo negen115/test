@@ -1,6 +1,6 @@
 <? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");?>
 <?
-//3
+//4
 use Bitrix\Sale;
 Bitrix\Main\Loader::includeModule("webnauts.ordermerger");
 \Bitrix\Main\Loader::IncludeModule("sale");
